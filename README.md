@@ -1,2 +1,0 @@
-# hamasproject1
-projecthamaskeren
